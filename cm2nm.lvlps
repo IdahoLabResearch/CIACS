@@ -1,0 +1,55 @@
+[ProjectWindow_Data]
+ProjectExplorer.ClassicPosition[String] = "128,725,984,1220"
+
+[AB_Cache_{E213308A-3AE0-4D89-8FE7-B6FA3608CE6E}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "92bbf4a3b731d395108d7e17cffaa0d5"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[0][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[0][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[1][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[1][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[2][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[2][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[3][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[3][Path] Line0003 = "lication/data/lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{F029A67C-8DF5-42AE-82E0-E9A1FBFCA84B}"
+Cache_GenGUID[1][String] = "{730E494B-DD85-410B-86A2-152B3B2E9E6C}"
+Cache_GenGUID[2][String] = "{5E3E1C11-9D7A-4F5A-9EE4-730E54125E95}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds/"
+Cache_OutputDir[Path] Line0002 = "cm2nm/cm2nm Analytical Sample Organizer Appli"
+Cache_OutputDir[Path] Line0003 = "cation"
+
+[AB_Cache_{56CD3C68-D668-4672-A225-1C87C866706D}]
+Cache_ProjSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_TargetSymbolChksum[String] = "7dea362b3fac8e00956a4952a3d4f474"
+Cache_MyCompChksum[String] = "92bbf4a3b731d395108d7e17cffaa0d5"
+Cache_GenFile_Count[Integer] = 4
+Cache_GenFile[0][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[0][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[0][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.exe"
+Cache_GenFile[1][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[1][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[1][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.aliases"
+Cache_GenFile[2][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[2][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[2][Path] Line0003 = "lication/cm2nm_sample_organizer_ap.ini"
+Cache_GenFile[3][Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds"
+Cache_GenFile[3][Path] Line0002 = "/cm2nm/cm2nm Analytical Sample Organizer App"
+Cache_GenFile[3][Path] Line0003 = "lication/data/lvanlys.dll"
+Cache_GenGUID_Count[Integer] = 4
+Cache_GenGUID[0][String] = "{F029A67C-8DF5-42AE-82E0-E9A1FBFCA84B}"
+Cache_GenGUID[1][String] = "{730E494B-DD85-410B-86A2-152B3B2E9E6C}"
+Cache_GenGUID[2][String] = "{5E3E1C11-9D7A-4F5A-9EE4-730E54125E95}"
+Cache_GenGUID[3][String] = ""
+Cache_OutputDir[Path] Line0001 = "/C/Users/mcjutr/Documents/local_CIACS/builds/"
+Cache_OutputDir[Path] Line0002 = "cm2nm/cm2nm Analytical Sample Organizer Appli"
+Cache_OutputDir[Path] Line0003 = "cation"
+
