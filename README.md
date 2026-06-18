@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 ﻿# CIACS (Cross-Instrument Analysis Correlation Software)
 
 *This project is not currently supported by Idaho National Laboratory as production grade software but is being made available to the public. Please use at your own risk.*
